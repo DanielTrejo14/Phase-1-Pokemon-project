@@ -1,1 +1,1 @@
-# The Pokemon project
+# The PokeAPI project
